@@ -4,7 +4,7 @@ Salomon es un asistente virtual desarrollado en **Python** diseñado para optimi
 
 ## 🚀 Funcionalidades Principales
 - **Gestión de Bitácora:** Registro y lectura de notas de mantenimiento con marca de tiempo.
-- **Modo Estudio:** Acceso automatizado a portales académicos (UTEL) y repositorios.
+- **Modo Estudio:** Acceso automatizado a portales académicos y repositorios.
 - **Consulta Inteligente:** Integración con búsquedas en Google y reportes de tráfico en CDMX.
 - **Arquitectura Robusta:** Uso de manejo de excepciones (`try/except`) y gestión de contextos (`with`).
 
